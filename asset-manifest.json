@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ba169df4.chunk.css",
+    "main.js": "/static/js/main.5bfdfe65.chunk.js",
+    "main.js.map": "/static/js/main.5bfdfe65.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.19ccc7f6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.19ccc7f6.js.map",
+    "static/js/2.0f6adc50.chunk.js": "/static/js/2.0f6adc50.chunk.js",
+    "static/js/2.0f6adc50.chunk.js.map": "/static/js/2.0f6adc50.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.1dfe3834de0f1cf24df2e8468aaebfbc.js": "/precache-manifest.1dfe3834de0f1cf24df2e8468aaebfbc.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.ba169df4.chunk.css.map": "/static/css/main.ba169df4.chunk.css.map",
+    "static/js/2.0f6adc50.chunk.js.LICENSE.txt": "/static/js/2.0f6adc50.chunk.js.LICENSE.txt",
+    "static/media/AlgebraFED.jpg": "/static/media/AlgebraFED.e241a065.jpg",
+    "static/media/CSS – izgled i dizajn.jpg": "/static/media/CSS – izgled i dizajn.ff7778bc.jpg",
+    "static/media/Experience.jpg": "/static/media/Experience.03dbad1e.jpg",
+    "static/media/HTML – struktura i sadrzaj.jpg": "/static/media/HTML – struktura i sadrzaj.6c1dc4a3.jpg",
+    "static/media/HTML&CSS.jpg": "/static/media/HTML&CSS.c9693b5a.jpg",
+    "static/media/JavaScript – klijentsko skriptiranje.jpg": "/static/media/JavaScript – klijentsko skriptiranje.28626c78.jpg",
+    "static/media/ProfilePhoto.jpg": "/static/media/ProfilePhoto.40d3beb4.jpg",
+    "static/media/Razvojna okolina.jpg": "/static/media/Razvojna okolina.e7023cce.jpg",
+    "static/media/React Developer Course.jpg": "/static/media/React Developer Course.5407f754.jpg",
+    "static/media/ReactJS – reaktivna arhitektura.jpg": "/static/media/ReactJS – reaktivna arhitektura.bcdc20ae.jpg",
+    "static/media/Web Developer Bootcamp.jpg": "/static/media/Web Developer Bootcamp.20550f65.jpg",
+    "static/media/Web korisnicka sucelja.jpg": "/static/media/Web korisnicka sucelja.6562f38a.jpg",
+    "static/media/croatia-flag.png": "/static/media/croatia-flag.74c479a3.png",
+    "static/media/js2018.jpg": "/static/media/js2018.982fc918.jpg",
+    "static/media/uk-flag.png": "/static/media/uk-flag.2aaa8b22.png",
+    "static/media/wordpress.png": "/static/media/wordpress.4392b765.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.19ccc7f6.js",
+    "static/js/2.0f6adc50.chunk.js",
+    "static/css/main.ba169df4.chunk.css",
+    "static/js/main.5bfdfe65.chunk.js"
+  ]
+}
